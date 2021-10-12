@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "name": "Microsoft Corporation",
+      "symbol": "MSFT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 235.9,
+      "close": 236.94,
+      "volume": 24307569,
+      "picture": "http://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OAgf?ver=6a31"
+    },
+    {
+      "name": "Apple",
+      "symbol": "AAPL",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 150.7,
+      "close": 148.94,
+      "volume": 109015000,
+      "picture": "http://lofrev.net/wp-content/photos/2014/09/Cool-Apple-logo.jpg"
+    },
+    {
+      "name": "Citigroup",
+      "symbol": "C",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 70.84,
+      "close": 68.78,
+      "volume": 26060284,
+      "picture": "https://logos-world.net/wp-content/uploads/2021/02/Citigroup-Logo-1998-1999.png"
+    },
+    {
+      "name": "The Boeing Company",
+      "symbol": "BA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 215.84,
+      "close": 211.57,
+      "volume": 9584497,
+      "picture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NEA8NDQ8PEA0QDxEQEA0QDxAPEA8OFRIWGhUSFRMYIDQsGhwoHBUTIz0tJyorMTI6Fx8/OzMtNygtLisBCgoKDg0OFhAQGjImHyItLS0vLS0tLi0tLTAtLSs1LS8tLy0tLy0tLS0tLi0tLS0rLS4tLS0tLSsvLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAQcFBggEAwL/xABEEAABAwIEAwYCBgYHCQAAAAABAAIDBBEFBhIhBzFBExQiUWFxMoEjQoKRobEVJDNDUnIWF1ST0uHwRFNVYpKUorLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EACARAQEAAgMAAQUAAAAAAAAAAAABAhESITFhIkFR8PH/2gAMAwEAAhEDEQA/AKNREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERFQREQERFAREQEREBERAREQEREBERAREQERSEEIvpPA+JxZI0teLXa4WcLi+46L5oCIiAiIgIiICIiAiIqCIpQQilEEIpRBCKUTQhFKJoQiIgIiKAiIgIiICIrFyXl2io6Q49jTddPq00dEbXqpd7Eg823B57bEna17Jsa9lzIuLYmA+lpnGI/v5CIovk53xfK62L+pzE76e9Ybr/3fenava2hYPNWfsSxQlr5TDS8mUcBMcTWdGut8e3n9wXhyhlarxiobTUrfIyzEHs4Y7/E4/kOqvSMxV8LMeimjgNIX9o7S2aN7XxDrdzh8IsOtl+cWfR4LelonsqsTFxPiIF4qZ3WKlB5uHIyHcfVseW645nuHLYhwjB7VJp3/AK5PO50jXvtZ0Ld/D622Frbm6wmc8vUOI0X9IMFZ2bGnTX0A/wBnk2u9rRyG4vbaxB23Wta89FaOcXEkkkk3JJuST1JUIi5qIilWTYhSr04b8IaWWkFVi8cjpp7PjgD3xdjFbbVp+s697Hlt1us9i3DrKNA1rqxrYGvJawy1kzNRAuQPFutSQc2qF03h3DDK1VG2emgE0L76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ZUZl2opK/Ee9Y7VFkJeZ53Fkkjp3XFogGA2B5egFh0WcJ3yotDgVkbsmDGatn0kgIo2OG7IzsZvc7gelz1CsfCs00tZW1mHwO1SUbYzI8EFpe4uD2D+UhoPq63RaLnTi9h0dE+PB5u0q3gRR2hljbTstYyeNoGw2AHW3QKrOFmZ48LxNlVUvIgkjlinks57g1w1B1hufG1iXHctvo6dxrDIq6nnpJr9lPG6N1rXAI5j1HP5LW89Zlp8u4eOxaxsmjsKKnA8OoN2JH8LRufkOq8p4vZd/tb/+2qP8KoLPubJcZrJKp92wjwU8JP7KEch/MeZ9T5AKY4/lW98GcoSYjUvxuvvJEyVzo+0FzUVd7mQ+Yafx9irtxzFoKCnlrKl2mGJupx6k8g1vmSbAe6rnKPFfAqehpKeR0lPJDAyJ0IgkeA5rQC4ObzBNz577r2YlxSytVM7KqcZ4rh3Zy0b5GahyNnDmpe8t1Ff5WwefN+Jz4hX6m0MZ8bWkgBtj2VNG7pYbkj16uVkVHDDAoWOklNQyKNpc57q2ZrGMaNyTfYALyUPFTLFJH2VLqiiBJEUNG6NtzzNgBuq84m8Uzi0fcqKN8NGSDI99hLPY3DSB8Lb2Nrm+3srbu7GL4njBIpIqfCC6UtGuWq7zJOzcbRsubepPsPNaKpULnldtCIiyCv8A4bmmzDBQ1FbG51bhEgj7Qt8E7S09nqJ5kWafO7b8nKgF0XleP9B5ZdVMsJ3Ur6sutb6aYfRX9gYx8lrFKrfjbmSStxF9L4m09ETExjgW6pTbtJLHzNgPRoPVV4rLg4mUtdG2HMGGxVpa3SKyK0NQB8rb+xaPRfaSXJTGMndQ4qGSajGwvAD9Js6x7TcX2vfofIq2b8PFeYJHVPqIRQtkdViRroRENTxI03BA9LXXYlB2k0DBVMYJ3RNbUwsdrayRzBrZfy3/ACXPNRxPp6Jj4cv4bDQahpdVyWmqXNt68jfzLgtBmxerkdI99RO50ri+QmV/0jz9Z2+5TodD45wZwOe7ojLRuJJ+jlDmX/lkvYexC0jFOCYjuYMXo7b2FQOy+9zXH8lUj5HO3cST5k3X5V5QbzV8MauK/wCv4O63liDG/wDuAsJW5VqIb3nw99hc6MSo3H5DXcrAInKCbpdQizyqiIimxN0uoRN0TdLqETYm6XUIryolFCJyEooRXkJRQpTkJuoRE5AiKE2JRQimwREWQREQF1XgrKTG8GihveCekZDJoI1RPa0Aj0c1zevkuVF9oaqWMERyPYHfEGuc0O9wOasukq0cay5lrL5LqieTE60fs6AOayIO6Gcs5DlsTv5FVtjWLT10zqicjUbBrGtDI4ox8McbB8LQNgF4UVtBERZUREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERB//2Q=="
+    },
+    {
+      "name": "Wells Fargo & Company",
+      "symbol": "WFC",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 46.02,
+      "close": 46.05,
+      "volume": 35977731,
+      "picture": "https://m.media-amazon.com/images/I/91A5BC7-gSL._AC_SL1500_.jpg"
+    },
+    {
+      "name": "Snap Inc.",
+      "symbol": "SNAP",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 71.26,
+      "close": 71.32,
+      "volume": 10874937,
+      "picture": "https://martech.org/wp-content/uploads/2016/02/snapchat-icon-medium-1920.png"
+    },
+    {
+      "name": "Tesla Inc.",
+      "symbol": "TSLA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 742.56,
+      "close": 744.49,
+      "volume": 18491011,
+      "picture": "https://autodius.com/wp-content/uploads/2020/05/tesla.jpg"
+    },
+    {
+      "name": "Starbucks Corporation",
+      "symbol": "SBUX",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 119.72,
+      "close": 118.86,
+      "volume": 3791877,
+      "picture": "https://wallpapercave.com/wp/wp2955557.jpg"
+    },
+    {
+      "name": "Alibaba Group Holding Limited",
+      "symbol": "BABA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 162.86,
+      "close": 160.15,
+      "volume": 20535217,
+      "picture": "https://1000logos.net/wp-content/uploads/2018/08/alibaba-symbol.jpg"
+    },
+    {
+      "name": "JPMorgan Chase & Co.",
+      "symbol": "JPM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 157.07,
+      "close": 160.94,
+      "volume": 10779431,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPdZdJeQ5ghOTwOMsDvrn2zUw_oaHYBrdjQ&usqp=CAU"
+    },
+    {
+      "name": "Bank of America Corporation",
+      "symbol": "BAC",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 41.13,
+      "close": 39.84,
+      "volume": 53644451,
+      "picture": "https://1000logos.net/wp-content/uploads/2016/10/Bank-of-America-logo.png"
+    },
+    {
+      "name": "The Walt Disney Company",
+      "symbol": "DIS",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 182.4,
+      "close": 184.96,
+      "volume": 4696797,
+      "picture": "https://www.piratesandprincesses.net/wp-content/uploads/2020/06/Disney-Updated-Movie-Logo-2011.png"
+    },
+    {
+      "name": "Caterpillar Inc.",
+      "symbol": "CAT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 206.04,
+      "close": 202.33,
+      "volume": 3693374,
+      "picture": "https://wallpaperaccess.com/full/3579410.png"
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "symbol": "IBM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 138.4,
+      "close": 136.22,
+      "volume": 4366942,
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/2560px-IBM_logo.svg.png"
+    },
+    {
+      "name": "NVIDIA Corporation",
+      "symbol": "NVDA",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 221.52,
+      "close": 222.42,
+      "volume": 19836009,
+      "picture": "http://t.wallpaperweb.org/wallpaper/computer/1680x1050/Nvidia_Logo.jpg"
+    },
+    {
+      "name": "General Motors Company",
+      "symbol": "GM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 50.82,
+      "close": 51.22,
+      "volume": 11896383,
+      "picture": "https://static.dezeen.com/uploads/2021/01/gm-logo-rebrand-electric-vehicles-design_dezeen_2364_col_0-1.gif"
+    },
+    {
+      "name": "QUALCOMM Incorporated",
+      "symbol": "QCOM",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 143.41,
+      "close": 141.14,
+      "volume": 6400460,
+      "picture": "https://applemagazine.com/wp-content/uploads/2017/04/qualcomm-logo-mwc-2015-2.jpg"
+    },
+    {
+      "name": "Lockheed Martin Corporation",
+      "symbol": "LMT",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 344.34,
+      "close": 346.31,
+      "volume": 1295093,
+      "picture": "https://i.imgur.com/CC1aSud.png"
+    },
+    {
+      "name": "Advanced Micro Devices",
+      "symbol": "AMD",
+      "has_intraday": false,
+      "has_eod": true,
+      "country": null,
+      "open": 104.8,
+      "close": 105.73,
+      "volume": 40528335,
+      "picture": "https://images.hdqwalls.com/wallpapers/amd-logo-ryzen-4k-nc.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "josh pulley",
+      "address": "24 gray way",
+      "email": "josh@josh.com",
+      "id": 1
+    },
+    {
+      "name": "alex woodall",
+      "address": "126 harper avenue",
+      "email": "alex@alex.com",
+      "id": 2
+    }
+  ],
+  "watchlist": [
+    {
+      "userId": 1,
+      "stockSymbol": "JPM",
+      "stockOpen": 157.07,
+      "stockClose": 160.94,
+      "stockVolume": 10779431,
+      "stockPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPdZdJeQ5ghOTwOMsDvrn2zUw_oaHYBrdjQ&usqp=CAU",
+      "notes": "close to resistance level",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "stockSymbol": "CAT",
+      "stockOpen": 206.04,
+      "stockClose": 202.33,
+      "stockVolume": 3693374,
+      "stockPicture": "https://wallpaperaccess.com/full/3579410.png",
+      "notes": "alex woodall",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "stockSymbol": "WFC",
+      "stockOpen": 46.02,
+      "stockClose": 46.05,
+      "stockVolume": 35977731,
+      "stockPicture": "https://m.media-amazon.com/images/I/91A5BC7-gSL._AC_SL1500_.jpg",
+      "notes": "earning report upcoming",
+      "id": 4
+    }
+  ]
+}
